@@ -1,2 +1,2 @@
-# algorithms
-simple study repository for algorithms and logic
+# Algorithms
+Simple repository to study algorithms and logic (maybe soon data structures too)
